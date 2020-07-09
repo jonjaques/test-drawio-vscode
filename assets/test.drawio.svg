@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="491px" height="271px" viewBox="-0.5 -0.5 491 271" content="&lt;mxfile host=&quot;&quot; modified=&quot;2020-07-09T21:12:29.480Z&quot; agent=&quot;5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.46.1 Chrome/78.0.3904.130 Electron/7.3.1 Safari/537.36&quot; etag=&quot;lhGBSrx4RXDOSYvSWVWo&quot; version=&quot;13.1.3&quot;&gt;&lt;diagram id=&quot;6hGFLwfOUW9BJ-s0fimq&quot; name=&quot;Page-1&quot;&gt;jVM9b4MwEP01jJWCiUgY2zRtlk4ZMlv4gi0ZjjqmkP76HvEZgqJInWy/d5/vzkm2q4dPJ1v9hQpsIlZqSLL3RIh0VWzpGJFrQIrtKgCVM4qNZuBofiF6MtoZBZeFoUe03rRLsMSmgdIvMOkc9kuzM9pl1lZW8AAcS2kf0ZNRXgd0KzYzfgBT6Zg5zYvA1DIacycXLRX2d1C2T7KdQ/ThVg87sKN4UZfg9/GEnQpz0Pj/OIjg8CNtx70lIrfk+nZGikAF+it3nX93GImXy20mr2SQr9thJulWjeeB0iCxJ3SkLYekMkLUYMMKTAmEw65RMFaWEt1r4+HYynJke1okwrSvLdNcODgPw9Pm00lS2kXAGry7kkl02PAUeA3Tgt/9PNR1xPTdQEV0lLxI1RR71pouLHd8zmO9cXefI9v/AQ==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="0" width="490" height="270" rx="40.5" ry="40.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 488px; height: 1px; padding-top: 135px; margin-left: 1px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <font style="font-size: 64px">
+                                    Hello World
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="245" y="139" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Hello World
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://desk.draw.io/support/solutions/articles/16000042487" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
